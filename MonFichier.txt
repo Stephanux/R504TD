@@ -1,2 +1,1 @@
-Git c'est de la balle !
-je ne pensais pas que c'était aussi simple !
+le texte a été modifié !
